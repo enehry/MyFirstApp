@@ -10,4 +10,4 @@ MyFirstApp is an app that used in flutter tutorial in URS Binangonan this app te
 * MaterialPageRoute
 * Fonts
 ## Output after the lesson
-![Screenshot](images/sample.jpg)
+<img src="https://github.com/enehry/MyFirstApp/blob/main/sample.jpg" width="350" title="hover text">
